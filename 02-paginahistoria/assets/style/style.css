@@ -1,0 +1,43 @@
+body {
+    margin: 0px;
+    background-color: rgb(121, 121, 121);
+    font-family: cursive;
+}
+
+header {
+    background-color: rgb(190, 190, 190);
+    border-bottom: 3px solid white;
+}
+
+h1 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+    
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+    border: 3px solid white;
+    padding: 2px;
+ 
+}
+
+div  {
+
+background-color: turquoise;
+
+}
+
+
+footer div {
+    background-color: black;
+    color: blanchedalmond;
+}
